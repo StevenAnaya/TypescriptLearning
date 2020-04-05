@@ -1,0 +1,14 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Steven Anaya",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
